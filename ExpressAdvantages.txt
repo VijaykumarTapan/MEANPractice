@@ -1,0 +1,9 @@
+Express is a connect based web framework (middleware for NodeJS). One of the biggest adavantages of Express
+is that it removes a lot of overhead code that you had to write with nodejs and connect middleware. For example
+you can just write res.send() instead of of res.setHeaders and res.end. Express automatically puts in the content-type 
+depending on the type of data you passed it. 
+
+Express also has a host of useful functions and a very robust routing api. It makes routing in Nodejs applications much simpler and adds a lot of
+routing features absent in Nodejs.
+
+I am still reading the express chapter, I will update this text file after I complete the chapter.

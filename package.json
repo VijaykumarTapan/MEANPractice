@@ -1,0 +1,10 @@
+{
+	"name" : "MEAN",
+	"version" : "0.0.1",
+	"description" : "This project is made to practice core concepts of the MEAN framework",
+	"dependencies" : {
+		"express" : "~4.13.3",
+		"connect" : "~3.4.0"
+	},
+	"readme" : "Mean Web Development"
+}
